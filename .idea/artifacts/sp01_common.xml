@@ -1,0 +1,6 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="sp01-common">
+    <output-path>$PROJECT_DIR$/out/artifacts/sp01_common</output-path>
+    <root id="archive" name="sp01-common.jar" />
+  </artifact>
+</component>
