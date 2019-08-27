@@ -9,7 +9,9 @@
     <bookmark url="file://$PROJECT_DIR$/sp05-eureka/src/main/resources/application.yml" line="16" mnemonic="3" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a5d12d08-0106-43cf-aa17-731758acc2af" name="Default Changelist" comment="" />
+    <list default="true" id="a5d12d08-0106-43cf-aa17-731758acc2af" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/demo/target/" />
     <ignored path="$PROJECT_DIR$/sp02-itemservice/target/" />
     <ignored path="$PROJECT_DIR$/sp01-commons/target/" />
@@ -52,7 +54,7 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-9030">
+            <state>
               <caret line="11" column="59" selection-start-line="11" selection-start-column="59" selection-end-line="11" selection-end-column="59" />
             </state>
           </provider>
@@ -251,7 +253,7 @@
     <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1566905437577" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1566907530698" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../sp002" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -630,7 +632,7 @@
       <workItem from="1566697479845" duration="2692000" />
       <workItem from="1566700225254" duration="17711000" />
       <workItem from="1566779177673" duration="21250000" />
-      <workItem from="1566866255595" duration="22876000" />
+      <workItem from="1566866255595" duration="24431000" />
     </task>
     <task id="LOCAL-00001" summary="Commit Message">
       <created>1566889905326</created>
@@ -703,13 +705,12 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="64529000" />
+    <option name="totallyTimeSpent" value="66084000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="317" y="0" width="1527" height="1040" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.148908" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17604236" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -728,7 +729,7 @@
       <window_info anchor="bottom" id="Spring" order="8" />
       <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.49969307" weight="0.33476856" />
       <window_info anchor="bottom" id="Docker" order="10" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.64129716" side_tool="true" visible="true" weight="0.37459633" />
+      <window_info active="true" anchor="bottom" id="Event Log" order="11" sideWeight="0.64129716" side_tool="true" visible="true" weight="0.37459633" />
       <window_info anchor="bottom" id="Messages" order="12" sideWeight="0.4996691" weight="0.2540366" />
       <window_info anchor="bottom" id="Java Enterprise" order="13" />
       <window_info anchor="bottom" id="Database Changes" order="14" />
@@ -1205,7 +1206,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-9030">
+        <state>
           <caret line="11" column="59" selection-start-line="11" selection-start-column="59" selection-end-line="11" selection-end-column="59" />
         </state>
       </provider>
